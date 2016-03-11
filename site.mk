@@ -29,7 +29,15 @@ GLUON_SITE_PACKAGES := \
 	haveged \
 	iptables \
 	iwinfo
-
+	kmod-usb-core \
+	kmod-usb2 \
+	kmod-usb-hid \
+	kmod-usb-net \
+	kmod-usb-net-asix \
+	kmod-r8169 \
+	kmod-usb-net-rtl8150\
+        kmod-usb-net-rtl8152\
+        
 ##	DEFAULT_GLUON_RELEASE
 #		version string to use for images
 #		gluon relies on
